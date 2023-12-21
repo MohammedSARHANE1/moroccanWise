@@ -1,0 +1,12 @@
+.nav{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 15% 35% 38% 22%;
+    width: 100vw;
+    height: 100vh;
+    background-image:url('./public/bg.jpg');
+    background-size:  100vw 100vh;
+    ; /* Replace with your desired width and height */
+  background-repeat: no-repeat; 
+}
+

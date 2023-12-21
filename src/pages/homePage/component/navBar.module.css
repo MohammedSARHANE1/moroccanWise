@@ -1,0 +1,26 @@
+.BoxI {
+    margin:0.5rem; 
+
+    display: flex;
+    justify-content: flex-start;
+}
+.text{
+    margin:0.5rem; 
+}
+.BoxII{
+    display: flex;
+   justify-self: end;
+    margin:0.5rem; 
+ }
+.Box1  {
+    margin: 0.5rem; 
+    
+
+}
+.Box2  {
+    margin:0.5rem; 
+
+}
+.But{
+  background-color: rgb(80, 230, 80);
+}
