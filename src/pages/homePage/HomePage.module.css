@@ -1,7 +1,7 @@
 .nav{
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: 15% 35% 38% 22%;
+    grid-template-rows: 25% 20% 38% 22%;
     width: 100vw;
     height: 100vh;
     background-image:url('./public/bg.jpg');
@@ -9,4 +9,12 @@
     ; /* Replace with your desired width and height */
   background-repeat: no-repeat; 
 }
+.text{
+color: aliceblue;
+}
+.text Button{
+ 
+   background-color: rgb(80, 230, 80)
+}
+
 
