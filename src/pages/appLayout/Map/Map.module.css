@@ -1,0 +1,5 @@
+.Map{
+    display: grid;
+    grid-template-columns: 1fr;
+    background-color: rgb(94, 102, 94);
+}

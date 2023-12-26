@@ -6,10 +6,7 @@ import Styles from './navBar.module.css'
 function NavBar() {
   return (
     <Flex  justify="space-between" >
-        <Box className={Styles.BoxI}>
-        <Image  borderTopRadius="50%" src="./public/main-pic.jpg" width="50px" height="50px" alt="my Logo"/>
-        <Text  className={Styles.text} style={{color:"white"}}>MoroccanWise</Text>
-        </Box>
+        
         <Box className={Styles.BoxII}>
         <Box className={Styles.Box1}>
         <Link to='/pricing' style={{color:"white"}}>pricing</Link>

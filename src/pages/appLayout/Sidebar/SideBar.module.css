@@ -1,0 +1,5 @@
+.SideBar{
+    display: grid;
+    grid-template-rows: 20% auto 20%;
+    background-color: rgb(62, 66, 62);
+}
